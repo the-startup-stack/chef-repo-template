@@ -1,0 +1,7 @@
+chef_username = "stack"
+chef_user = "Startup Stack"
+chef_password = "samplepassword"
+chef_user_email = "avi@avi.io"
+chef_organization_id = "the-startup-stack"
+chef_organization_name = "The Startup Stack"
+domain_name = "the-startup-stack.com"
